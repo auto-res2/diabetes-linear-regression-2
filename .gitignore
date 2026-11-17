@@ -1,0 +1,12 @@
+data/
+.venv/
+__pycache__/
+report/*.aux
+report/*.log
+report/*.out
+run-output/
+formal/lean/.lake/
+formal/lean/Values.lean
+formal/lean/Theorems.lean
+formal/results.json
+formal/lean/Candidates.lean
